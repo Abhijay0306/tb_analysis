@@ -1,6 +1,6 @@
 # Tuberculosis Diagnosis Web App with Streamlit (Updated for Your Dataset)
 # =====================================================================
-
+import sklearn
 import pandas as pd
 import numpy as np
 import streamlit as st
